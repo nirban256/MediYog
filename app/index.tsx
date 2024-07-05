@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { StatusBar } from "expo-status-bar";
 import { router } from 'expo-router';
 
-import beachImage from "@/assets/meditation-images/beach.webp";
+import beachImage from "../assets/meditation-images/beach.webp";
 import CustomButton from '@/components/CustomButton';
 import AppGradient from '@/components/AppGradient';
 
